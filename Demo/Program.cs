@@ -8,5 +8,9 @@ namespace Demo
         {
             Console.WriteLine("Hello World!");
         }
+        public void Mood()
+        {
+            Console.WriteLine("Mood World");
+        }
     }
 }
